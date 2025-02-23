@@ -1,18 +1,19 @@
-👋 **Hi there! I'm Bekhruz**  
-🎓 _Computer Science Student @ University of Manchester_  
+# **Bekhruz | Data Scientist & Machine Learning Enthusiast**  
 
-💻 **About Me:**  
-Passionate about all things data and coding! As a dedicated student with a strong background in data analytics and database optimization, I love exploring new technologies and solving complex problems. 🌟  
+🚀 Passionate about **data science, machine learning, and AI-driven solutions**, with a strong background in **predictive modeling, NLP, and financial data analysis**. I specialize in **data-driven decision-making, large-scale data processing, and building intelligent systems**.  
 
-🚀 **Upcoming Adventure:**  
-I'm gearing up to start my *100 Days of Code* journey! Expect lots of updates, learnings, and shared experiences as I dive deep into coding challenges and projects.  
+## 🔍 **What I Do**  
+- **Machine Learning & Predictive Analytics** – Building and optimizing models for **classification, regression, and forecasting**.  
+- **Natural Language Processing (NLP)** – Developing **semantic search engines, text classification, and sentiment analysis** using BERT, spaCy, and NLTK.  
+- **Data Analysis & Visualization** – Transforming raw data into actionable insights with **EDA, statistical modeling, and visual storytelling**.  
+- **Financial & Transactional Data Processing** – Applying machine learning to **banking, loan prediction, and fraud detection**.  
+- **Database & Big Data Management** – Working with **SQL, relational and graph databases (Neo4j), and distributed systems**.  
 
-🔧 **Skills:**  
-- Data Analytics 📊  
-- Database Design & Optimization 🛠️  
-- SQL & Data Warehousing 📚  
-- Effective Communication & Teamwork 🤝  
-- And constantly learning more! 📈  
+## 📂 **Featured Projects**  
+🔹 **[AI-Powered Search Engine](https://github.com/thebekhruz/Data_Analysis_Online_Retail_Transactions)** – NLP-based document retrieval with **BERT, Neo4j, and knowledge graphs**.  
+🔹 **[Predictive Loan Modeling](https://github.com/thebekhruz/predictive_modelling)** – Risk assessment for loan approvals using **machine learning**.  
+🔹 **[Retail Transaction Analysis](https://github.com/thebekhruz/Data_Analysis_Online_Retail_Transactions)** – Data-driven insights into **customer behavior and sales trends**.  
 
-🔗 **Let's Connect!**  
-Feel free to reach out for collaborations or just a friendly chat about tech and coding adventures!  
+## 📫 **Let's Connect**  
+💼 **LinkedIn**: [Bekhruz Suleymanov](https://www.linkedin.com/in/bekhruzsuleymanov/)  
+📧 **Email**: forwork.bekhruz@gmail.com  
