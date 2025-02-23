@@ -3,9 +3,9 @@
 🚀 Passionate about **data science, machine learning, and AI-driven solutions**, with a strong background in **predictive modeling, NLP, and financial data analysis**. I specialize in **data-driven decision-making, large-scale data processing, and building intelligent systems**.  
 
 ## 🔍 **What I Do**  
-- **Machine Learning & Predictive Analytics** – Building and optimizing models for **classification, regression, and forecasting**.  
+- **Machine Learning & Predictive Analytics** – Building and optimising models for **classification, regression, and forecasting**.  
 - **Natural Language Processing (NLP)** – Developing **semantic search engines, text classification, and sentiment analysis** using BERT, spaCy, and NLTK.  
-- **Data Analysis & Visualization** – Transforming raw data into actionable insights with **EDA, statistical modeling, and visual storytelling**.  
+- **Data Analysis & Visualisation** – Transforming raw data into actionable insights with **EDA, statistical modeling, and visual storytelling**.  
 - **Financial & Transactional Data Processing** – Applying machine learning to **banking, loan prediction, and fraud detection**.  
 - **Database & Big Data Management** – Working with **SQL, relational and graph databases (Neo4j), and distributed systems**.  
 
